@@ -94,5 +94,5 @@ int main(void) {
 	for (int x = 0; x < index; x += 2) {
 		printf("(%ld, %ld) \n" , array[x], array[x + 1]);
 	}
-
+	
 }
