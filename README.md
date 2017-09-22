@@ -1,10 +1,10 @@
 # Lab0
 
-##### Problem: Design software to find amicable numbers. 
+Problem: Design software to find amicable numbers. 
 
 # Lab1
 
-##### Problem. Design software to find the cycle length of a linear congruential number generator. 
+Problem. Design software to find the cycle length of a linear congruential number generator. 
 	
 	For a positive integer n, an easy way generate random numbers 
 	mod n is to use rand() % n, where rand() is C's random number 
